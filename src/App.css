@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.back{
+  background-color: #696969;
+  height: 50vh;
+padding-top: 5rem;
+padding-left: 30rem;
+padding-right: 30rem;
+}
+
+.footer{
+  padding-top: 3rem;
+  font-size:4rem
+}
+
